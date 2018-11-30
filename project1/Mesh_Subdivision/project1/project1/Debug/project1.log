@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/11/29 0:24:50。
+     1>项目“C:\Users\longr\Desktop\model_subdivision\project1\project1\project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ModifyButterflySubdivision.cpp Halfedge_structure.cpp LoopSubdivision.cpp main.cpp
+         main.cpp
+         LoopSubdivision.cpp
+         Halfedge_structure.cpp
+         ModifyButterflySubdivision.cpp
+         正在生成代码...
+     1>c:\users\longr\desktop\model_subdivision\project1\project1\modifybutterflysubdivision.cpp(368): warning C4715: “butterflyFormular”: 不是所有的控件路径都返回值
+     1>c:\users\longr\desktop\model_subdivision\project1\project1\loopsubdivision.cpp(252): warning C4715: “loopFomular”: 不是所有的控件路径都返回值
+     1>c:\users\longr\desktop\model_subdivision\project1\project1\loopsubdivision.cpp(209): warning C4715: “adjustFomular”: 不是所有的控件路径都返回值
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\longr\Desktop\model_subdivision\project1\Debug\project1.exe" /INCREMENTAL /NOLOGO glut32.lib glut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\longr\Desktop\model_subdivision\project1\Debug\project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\longr\Desktop\model_subdivision\project1\Debug\project1.lib" /MACHINE:X86 Debug\ModifyButterflySubdivision.obj
+         Debug\Halfedge_structure.obj
+         Debug\LoopSubdivision.obj
+         Debug\main.obj
+         project1.vcxproj -> C:\Users\longr\Desktop\model_subdivision\project1\Debug\project1.exe
+     1>已完成生成项目“C:\Users\longr\Desktop\model_subdivision\project1\project1\project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.63

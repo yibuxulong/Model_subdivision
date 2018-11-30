@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/11/28 17:29:02。
+     1>项目“F:\model simplify\project1\project1\project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\model simplify\project1\Release\project1.exe" /NOLOGO glut32.lib glut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\model simplify\project1\Release\project1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\model simplify\project1\Release\project1.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Release\ModifyButterflySubdivision.obj
+         Release\Halfedge_structure.obj
+         Release\LoopSubdivision.obj
+         Release\main.obj
+         正在生成代码
+     1>f:\model simplify\project1\project1\loopsubdivision.cpp(252): warning C4715: “loopFomular”: 不是所有的控件路径都返回值
+     1>f:\model simplify\project1\project1\loopsubdivision.cpp(209): warning C4715: “adjustFomular”: 不是所有的控件路径都返回值
+     1>f:\model simplify\project1\project1\modifybutterflysubdivision.cpp(361): warning C4715: “butterflyFormular”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         project1.vcxproj -> F:\model simplify\project1\Release\project1.exe
+     1>已完成生成项目“F:\model simplify\project1\project1\project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.50
