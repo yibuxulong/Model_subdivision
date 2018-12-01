@@ -1,7 +1,8 @@
 # Mesh-Subdivision
 ## Overview
-* A project to do subdivision using half-edge structure, it could parse and write .wrl model.  
-* Until now I have implemented Loop subdivision and the modified Butterfly subdivision.  
+* A project to do subdivision using half-edge structure.  
+* I have implemented Loop subdivision and the modified Butterfly subdivision.  
+* This project could parse and write .wrl model.  
 * Use OpenGL to implement visualization.  
 ## Project directory
 > result screenshot:.\result\  
